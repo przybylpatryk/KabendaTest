@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../kabendatest/kabendatest.csproj" Id="ffa60a29-3676-4d09-9106-5097a49294f1" />
+  <Project Path="kabenda.csproj" />
+</Solution>
